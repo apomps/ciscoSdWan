@@ -1,4 +1,4 @@
-# Python script for Cisco SD-WAN 19.2 SANDBOX
+# Python script for Cisco SD-WAN 20.4 SANDBOX
 Generate a table of operational information from Cisco SD-WAN vManage.
 
 # Requirements
