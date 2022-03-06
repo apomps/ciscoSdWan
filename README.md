@@ -6,7 +6,7 @@ This script was built to interact with the [Cisco DevNet Reservable Sandbox for 
 | Variable | Type | Content |
 | --- | --- | --- |
 | `vmanage = "10.10.20.90"` | string | IP address of the vManage |
-| `login_body = {"j_username": "admin", "j_password": "C1sco12345"}` | dictionary | Credentials for POST request Paylod |
+| `login_body = {"j_username": "admin", "j_password": "C1sco12345"}` | dictionary | Credentials for POST request Payload |
 
 ## API used for this project
 | Method | API path |
