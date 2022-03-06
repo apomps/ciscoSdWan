@@ -69,7 +69,7 @@ In this output, is an example if needed to collect the same information, however
 # About me!
 I am a Network Engineer and very excited in finding new created ways to automate... anything!
 
-Hope this code help you in some way!
+Hope this code helps you in some way!
 
 You can find me on [LinkedIn](linkedin.com/in/arthur-pompeu-3459bb23)
 
