@@ -17,8 +17,7 @@ This script was built to interact with the [Cisco DevNet Reservable Sandbox for 
 | `GET` | `/dataservice/device/bfd/sessions` |
 | `GET` | `/dataservice/device/tunnel/statistics` |
 
-For more information on available APIs: 
-https://developer.cisco.com/docs/sdwan/#!sd-wan-vmanage-v20-4
+For more information on available [vManage APIs v20-4](https://developer.cisco.com/docs/sdwan/#!sd-wan-vmanage-v20-4):
 
 ### Requirements
 ```
