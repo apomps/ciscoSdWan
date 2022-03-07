@@ -70,5 +70,5 @@ I am a Network Engineer and very excited in finding new created ways to automate
 
 Hope this code helps you in some way!
 
-You can find me on [LinkedIn](linkedin.com/in/arthur-pompeu-3459bb23)
+You can find me on [LinkedIn](https://linkedin.com/in/arthur-pompeu-3459bb23)
 
