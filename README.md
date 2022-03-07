@@ -29,8 +29,7 @@ more information on [tabulate](https://pypi.org/project/tabulate/) and
 [requests](https://pypi.org/project/requests/)
 ### Install requirements
 ```
-pip install tabulate
-pip install requests
+pip install -r requirements.txt
 ```
 
 ## Cool loading bar
