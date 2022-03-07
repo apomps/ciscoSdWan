@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/apomps/ciscoSdWan)
 # Python script for Cisco SD-WAN
 This python script gathers operational information from Cisco SD-WAN fabric components, leveraging vManage APIs and generates a tabular view.
 
