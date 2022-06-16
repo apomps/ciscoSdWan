@@ -30,6 +30,8 @@ more information on [tabulate](https://pypi.org/project/tabulate/) and
 [requests](https://pypi.org/project/requests/)
 ### Install requirements
 ```
+git clone https://github.com/apomps/ciscoSdWan
+cd ciscoSdWan
 pip install -r requirements.txt
 ```
 
