@@ -69,7 +69,7 @@ In this output, is an example if needed to collect the same information, however
 ![sdwan-putty-output-1003](https://user-images.githubusercontent.com/68168232/156904050-cc169c9e-5a03-48e0-ada7-62a818d040fe.PNG)
 
 # About me!
-I am a Network Engineer and very excited in finding new created ways to automate... anything!
+I'm Arthur Pompeu, I'm a Network Engineer and very excited about finding new and creative ways to automate just about... anything!
 
 Hope this code helps you in some way!
 
