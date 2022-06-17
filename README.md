@@ -2,7 +2,7 @@
 # Python script for Cisco SD-WAN
 This python script gathers operational information from Cisco SD-WAN fabric components, leveraging vManage APIs and generates a tabular view.
 
-This script was built to interact with the [Cisco DevNet Reservable Sandbox for SD-WAN 20.4](https://devnetsandbox.cisco.com/RM/Diagram/Index/4a0f4308-1fc4-4f4c-ae8c-2734f705bd21?diagramType=Topology). So the credentials used to authenticate towards the vManage are only applicable to the Cisco Sandbox. If to use in another enviornment the varibles below would need to be changed.
+This script was built to interact with the [Cisco DevNet Reservable Sandbox for SD-WAN 20.4](https://devnetsandbox.cisco.com/RM/Diagram/Index/4a0f4308-1fc4-4f4c-ae8c-2734f705bd21?diagramType=Topology). So the credentials used to authenticate towards the vManage are only applicable to the Cisco Sandbox. If used in another enviornment the varibles below would need to be changed.
 
 | Variable | Type | Content |
 | --- | --- | --- |
